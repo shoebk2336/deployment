@@ -8,7 +8,7 @@ const [value,setvalue]=useState(0)
 
     return(
         <div>
-        <h1>counter</h1>
+        <h1>counter khan</h1>
 <hr/>
 <h1>{value}</h1>
 <div>
